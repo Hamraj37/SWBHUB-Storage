@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "32788894096",
+    "firebase_url": "https://swbstore-data-default-rtdb.firebaseio.com",
+    "project_id": "swbstore-data",
+    "storage_bucket": "swbstore-data.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32788894096:android:e6d48ae759365595186315",
+        "android_client_info": {
+          "package_name": "pro.sketchware"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32788894096-5nqdsii13jr1vhkevkg955tcongat0q9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPwPbHVmtjzIubvOdJTGwIR-vtVZIqGfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32788894096-5nqdsii13jr1vhkevkg955tcongat0q9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
